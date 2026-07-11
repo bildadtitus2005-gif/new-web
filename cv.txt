@@ -1,0 +1,20 @@
+Curriculum Vitae
+Name: Bildad Titus
+Role: Aspiring Web Developer and Computer Science Student
+Email: bildadtitus2005@gmail.com
+Phone: +234 9013770776
+Location: Adamawa State, Yola
+
+Profile:
+I am Bildad Titus, an aspiring web developer and computer science student passionate about building responsive websites and solving real-world problems through technology.
+
+Education:
+Computer Science Student
+Focused on programming, web development, and software design.
+
+Skills:
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- Problem Solving
